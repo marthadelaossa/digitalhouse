@@ -1,0 +1,41 @@
+.uno p{
+    font-family: Roboto;
+    font-style: normal;
+    background-color: black; 
+    color:white;
+  }
+span{float:right;}
+.dos{
+    background-color: #F0A83E;
+    color: #fff; 
+}
+.dos p{
+    color: #fff; 
+}
+.tres{
+    text-align: center;
+}
+.tres h5{
+    color: #fff; 
+    text-align: center;
+}
+.cuatro img{
+    width: 100%;
+}
+.cinco img{
+    background-color: #FBFAF6; 
+}
+.seis p{
+    background-color: #3C2313;
+    width: 100%;
+}
+
+
+.seis img{
+    background-color: #3C2313; 
+}
+.siete p{
+    text-align: center;
+    background-color: black; 
+    color:white;
+}

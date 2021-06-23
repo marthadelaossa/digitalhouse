@@ -1,0 +1,149 @@
+.uno {
+    position: Fixed;
+    width: 100%;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+    background: #1CD1B0;
+    z-index: 1;
+}
+.dos {
+    position: Fixed;
+    width: 100%;
+    height: 101px;
+    left: 0px;
+    top: 38px;
+    background: #00669F;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+    z-index: 1;
+}
+.dos h1 {
+    position: absolute;
+    left: 28px;
+    top: 19px;
+    font-family: Roboto;
+    font-size: 30px;
+    line-height: 47px;
+
+}
+.contenedor1{
+    position: relative;
+    left: 2%;
+    top: 250px;
+    width: 300px;
+    z-index: -1;
+
+}
+.contenedor2{
+    position: relative;
+    left: 38%;
+    top: 250px;
+    width: 300px;
+    z-index: -1;
+
+}
+
+.contenedor3{
+    position: relative; 
+    left: 78%;
+    top: 250px;
+    width: 300px;
+    z-index: -1;
+
+}
+
+footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    background: #00669F;
+    font-size: 10px;
+    text-align: center;
+    z-index: 1;
+}
+
+
+.fondoavatar{
+    position: absolute;
+    top:0px;
+    left:0px;
+    border-radius: 16px 16px 0px  0px ;
+    z-index: 1;
+
+}
+.fondoletra{
+    position: absolute;
+    top:150px;
+    left:0px;
+    z-index: -1;
+}
+.like{
+    position: absolute;
+    top:20px;
+    left:20px;
+    z-index: 1;
+}
+.avatar{
+    position: absolute;
+    z-index: 1;
+    border-radius:180px;
+    top: 140px;
+    left:90px;
+}
+.titulo{
+    position: absolute;
+    font-size: 16px;
+    color: #333333;
+    text-align: center;    
+    z-index: 1;
+    top:240px;
+    left: 90px;
+    vertical-align: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+}
+.texto{
+    position: absolute;
+    font-size: 16px;
+    color: #333333;
+    text-align: justify;
+    z-index: 1;
+    width: 250px;
+    top:300px;
+    left: 10px;
+}
+
+.boton{
+    position: absolute;
+    vertical-align:center;
+    z-index: 1;
+    top: 430px;
+    left: 125px;
+    color:#333333;
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #1883ba;
+    border-radius: 2px;;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #F3F3F3;
+
+    }
+
+
+
+
+
+
